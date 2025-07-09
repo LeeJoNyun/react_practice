@@ -1,4 +1,4 @@
-import ProductList from "./Productlist";
+import ProductList from "./ProductList";
 import { ContentStyle } from "./style";
 
 const Content1 = () => {
