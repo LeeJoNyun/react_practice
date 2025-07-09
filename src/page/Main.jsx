@@ -1,7 +1,6 @@
 import Visual from "../components/main/visual/Visual";
 import Content1 from "../components/main/Content1/Content1";
 import Content2 from "../components/main/content2/Content2";
-
 import Content3 from "../components/main/Content3/Content3";
 
 const Main = () => {
